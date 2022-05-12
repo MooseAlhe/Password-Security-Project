@@ -38,3 +38,6 @@ Here are some recomendations for you password based on your personal information
 Your password contains an abreviation of your last name, alh, we recommend not putting any variations of your name into your password
 ```
 
+## dict.py
+
+This is my failed attempt to create the dictAtt() method into Python. 
